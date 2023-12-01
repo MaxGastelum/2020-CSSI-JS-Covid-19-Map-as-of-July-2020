@@ -140,7 +140,7 @@ function usCases(){
   
 textSize(25)
   textFont('century gothic')
-  text('COVID-19 In The US', -450, 200)
+  text('COVID-19 Cases In The US', -450, 200)
 
 }
 
