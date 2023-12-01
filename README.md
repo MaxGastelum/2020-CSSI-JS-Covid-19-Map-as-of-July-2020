@@ -4,4 +4,4 @@ This is the final project I completed for the Google-Sponsored Computer Science 
 
 We used the p5 JavaScript library to build a map that displays the amount of case of COVID-19 in the United States and all the countries who have published such data. There is no numberical values but circles and their size are used to convey the magnitude of spread in each region, using inspiration from Daniel Shiffman's earthquake visualization map. The data used is static data that was aquired from the CDC in July of 2020.
 
-![image](https://github.com/MaxGastelum/2020-CSSI-JS-Covid-19-Map-as-of-July-2020/assets/78455758/edb9e57d-6e66-4e3e-ae5a-e86eea0c81e8)
+![image](https://github.com/MaxGastelum/2020-CSSI-JS-Covid-19-Map-as-of-July-2020/assets/78455758/f3f8da03-8057-415d-8fed-475f67ad62bf)
